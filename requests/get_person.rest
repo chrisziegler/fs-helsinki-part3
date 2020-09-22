@@ -1,0 +1,6 @@
+GET http://localhost:3001/api/persons/3
+
+{
+  name: "Eddy Van Halen",
+  number: "666 555-1212"
+}
